@@ -2,3 +2,6 @@
 2- candy
 3- fruit
 4- sugar
+5- mask
+6- soup
+7- gloves
