@@ -35,6 +35,8 @@ namespace Project01.Properties {
         public string regesterationAppConnectionString1 {
             get {
                 return ((string)(this["regesterationAppConnectionString1"]));
+                
+                massagebox()
             }
         }
     }
